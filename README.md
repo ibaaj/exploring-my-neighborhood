@@ -1,3 +1,3 @@
 # exploring-my-neighborhood
 
-![./lossy.gif](./lossy.gif)
+![./lossy.gif](./result.gif)
