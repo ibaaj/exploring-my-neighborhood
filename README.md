@@ -1,6 +1,6 @@
 # exploring-my-neighborhood
 
-![./static.gif](./static.gif)
+![./static.jpg](./static.jpg)
 
 
 - cron that run findme.py every 10 minutes
